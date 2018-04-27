@@ -1,1 +1,9 @@
-theme: jekyll-theme-merlot
+# Site settings
+title: Humainable. 
+description: "A site about Humane and Sustainable Foods and Products. Copyright &#169; 2018 Proti.st"
+baseurl: ""
+url: "http://humainable.org"
+
+# Build settings
+markdown: kramdown
+remote_theme: KingFelix/emerald
