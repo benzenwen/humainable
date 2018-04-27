@@ -6,4 +6,4 @@ url: "http://humainable.org"
 
 # Build settings
 markdown: kramdown
-remote_theme: KingFelix/emerald
+#remote_theme: KingFelix/emerald
